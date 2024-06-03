@@ -1,5 +1,7 @@
 # ELIXIR Lesson Title 
 
+This is a very nice test of the template. 
+
 ## Authors
 
 [cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
